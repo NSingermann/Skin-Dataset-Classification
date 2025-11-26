@@ -17,7 +17,7 @@ Finalmente se ejecutó la notebook **`3_CNN con búsqueda de HP.ipynb`** en la P
 
 Todas las preguntas teóricas y el análisis de los resultados fueron contrastados en el informe, **MLFlow** resultó ser de gran utilidad principalmente para las búsquedad de hiperparámetros. 
 
-**Es importante destacar que el proyecto debió ser comprimido debido a su gran tamaño.**
+**Es importante destacar que el proyecto debió ser comprimido, y que debido a su gran tamaño, no incluye las runs generadas para el MLFlow (carpeta mlruns).**
 
 ---
 ### PD
